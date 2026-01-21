@@ -79,6 +79,7 @@ def ensure_nltk():
         ("corpora/stopwords", "stopwords"),
         ("corpora/wordnet", "wordnet"),
         ("tokenizers/punkt", "punkt"),
+         ("tokenizers/punkt_tab", "punkt_tab"), 
         ("taggers/averaged_perceptron_tagger", "averaged_perceptron_tagger"),
         ("corpora/omw-1.4", "omw-1.4"),
     ]
