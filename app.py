@@ -80,7 +80,7 @@ def ensure_nltk():
         ("corpora/wordnet", "wordnet"),
         ("tokenizers/punkt", "punkt"),
         ("tokenizers/punkt_tab", "punkt_tab"), 
-        ("taggers/averaged_perceptron_tagger_eng", "averaged_perceptron_tagger_eng")，
+        ("taggers/averaged_perceptron_tagger_eng", "averaged_perceptron_tagger_eng"),
         ("corpora/omw-1.4", "omw-1.4"),
     ]
 
