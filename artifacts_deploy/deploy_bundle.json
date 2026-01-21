@@ -1,0 +1,10 @@
+{
+  "model": "best_model.joblib",
+  "tfidf": "tfidf.joblib",
+  "scaler": "scaler.joblib",
+  "ohe": "ohe.joblib",
+  "label_encoders": "label_encoders.joblib",
+  "structured_columns": "structured_columns.joblib",
+  "feature_groups": "feature_groups.joblib",
+  "thresholds": "best_thresholds.json"
+}
